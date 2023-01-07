@@ -5,6 +5,18 @@ h1 {
   font-weight: bold;
 }
 
+.logo-large {
+  max-width: 15%;
+}
+
+.logo-small {
+  max-width: 15%;
+}
+
+.home-navbar {
+  color: rgb(130, 80, 233);
+}
+
 .hello-i-am {
   font-size: 36px;
   font-weight: bold;
