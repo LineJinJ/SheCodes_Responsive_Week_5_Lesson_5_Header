@@ -30,10 +30,6 @@ h2 {
   max-width: 15%;
 }
 
-.home-navbar {
-  color: rgb(130, 80, 233);
-}
-
 .hello-i-am {
   font-size: 36px;
   font-weight: bold;
@@ -72,4 +68,17 @@ h2 {
   font-size: 18px;
   font-weight: 400;
   line-height: 27px;
+}
+
+@media (max-width: 900px) {
+  h1 {
+    font-size: 44px;
+    line-height: 56px;
+  }
+  .front-end-developer-text {
+    font-size: 44px;
+  }
+  .hero {
+    padding: 80px 20px;
+  }
 }
