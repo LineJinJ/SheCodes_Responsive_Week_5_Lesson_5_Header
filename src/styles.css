@@ -1,7 +1,46 @@
+h1 {
+  font-size: 44px;
+  line-height: 56px;
+  font-family: playfair Display;
+  font-weight: bold;
+}
+
+.hello-i-am {
+  font-size: 36px;
+  font-weight: bold;
+  font-family: Poppins;
+  margin: 0;
+  padding-top: 100px;
+}
+
+.front-end-developer-text {
+  font-family: Playfair Display;
+  font-weight: normal;
+  line-height: 1.5;
+  font-size: 24px;
+}
+
 .contact-button {
   background-color: rgb(130, 80, 233);
   color: #fff;
   display: block;
-  margin: 50px 300px;
-  padding: 10px 0;
+  margin: 50px 100px;
+  padding: 10px 200px;
+  border-radius: 4px;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 27px;
+}
+
+.learn-more {
+  background-color: #fff;
+  color: rgb(130, 80, 233);
+  display: block;
+  margin: 50px 100px;
+  padding: 10px 200px;
+  border-radius: 4px;
+  border: 1px solid rgb(130, 80, 233);
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 27px;
 }
